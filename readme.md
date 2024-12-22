@@ -28,7 +28,7 @@ Ensure the following tools are installed:
 1. Clone this repository or download the source code.
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Sakib326/face-detection-app.git
    cd face-detection-app
    ```
 
